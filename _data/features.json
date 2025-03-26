@@ -1,29 +1,19 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
-    "image": {
-      "url": "images/features/noun_branding_1885335.svg",
-      "width": 80,
-      "height": 80
-    }
+    "title": "Wholesale flower",
+    "description": "We offer a variety of wholesale flower from different vendors across the state."
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
-    "image": {
-      "url": "images/features/noun_The Process_1885341.svg",
-      "width": 80,
-      "height": 80
-    }
+    "title": "Prerolls",
+    "description": "We offer the finest infused, kief coated and regular prerolls in multiple sizes."
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
-    "image": {
-      "url": "images/features/noun_3d modeling_1885342.svg",
-      "width": 80,
-      "height": 80
-    }
+    "title": "Edibles",
+    "description": "We offer various types of edibles in multiple doses. Gummies, chocolates, drinks."
+  },
+  {
+    "title": "Cartridges",
+    "description": "We offer a variety of cartridges including disposables and 510 thread cartridges in different sizes. We offer full spectrum and distillate options."
   }
+
 ]

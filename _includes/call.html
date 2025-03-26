@@ -10,6 +10,13 @@
       </a>
     </div>
     {% endif %}
+    {% if site.data.contact.insta %}
+    <div class="call-insta"><strong>Instagram: </strong>
+      <a href="https://instagram.com/{{ .site.data.contact.insta }}">
+        {{ site.data.contact.insta }}
+      </a>
+    </div>
+    {% endif %}
   </div>
     {% if include.show_button %}
       <div class="call-box-bottom">

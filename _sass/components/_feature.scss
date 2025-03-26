@@ -21,9 +21,13 @@
     height: auto;
   }
   .feature-title {
+    font-size: 2rem;
+    font-weight: 700;
+    margin-bottom: 10px;
   }
   .feature-content {
     margin-bottom: 0;
     margin-top: auto;
+    line-height: 1.7;
   }
 }
